@@ -1,3 +1,23 @@
+html, body, ul, li, h1, div, p {
+  	margin: 0;
+  	padding: 0;
+  	border: 0;
+  	font-weight: inherit;
+  	font-style: inherit;
+  	font-size: 120%;
+  	font-family: inherit;
+  	vertical-align: baseline;
+  }
+
 body {
-  font-family: "Helvetica", "Lucida Grande", "Verdana", "Arial", sans-serif; 
+  font-family: "Helvetica", "Lucida Grande", "Verdana", "Arial", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+a, a:link, a:visited, a:active, a:hover, a:visited {
+  text-decoration: none;
+  color: white;
+  padding: 25px 25px 25px 25px;
+  width: 100%;
 }
