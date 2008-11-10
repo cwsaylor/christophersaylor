@@ -18,6 +18,9 @@ body {
 a, a:link, a:visited, a:active, a:hover, a:visited {
   text-decoration: none;
   color: white;
-  padding: 25px 25px 25px 25px;
-  width: 100%;
+  padding: 10px;
+}
+
+li {
+  margin: 10px;
 }
