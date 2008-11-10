@@ -10,7 +10,7 @@ filter:    erb
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title><%= @page.title %></title>
    <meta name="author" content="<%= @page.author || "Chris Saylor" %>" />
-   <link rel="stylesheet" href="/css/blueprint/lib/reset.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/css/blueprint/src/reset.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/christophersaylor.css" type="text/css" media="screen, projection" />
 </head>
 <body>
