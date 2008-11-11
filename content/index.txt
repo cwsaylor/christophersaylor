@@ -7,11 +7,13 @@ filter:
 <h1><%= @page.title %></h1>
 
 <a class="justhack" href="http://justhack.com">Just Hack</a>
+<a class="tastyplanner" href="http://tastyplanner.com">Tastyplanner</a>
 <a class="github" href="http://github.com/cwsaylor">github</a>
 <a class="flickr" href="http://flickr.com/photos/cwsaylor">flickr</a>
 <a class="twitter" href="http://twitter.com/cwsaylor">Twitter</a>
-<a class="facebook" href="http://www.facebook.com/profile.php?id=716937664">Facebook</a>
+<a class="facebook" href="http://www.facebook.com/people/Chris_Saylor/716937664">Facebook</a>
 <a class="delicious" href="http://delicious.com/cwsaylor">delicious</a>
 <a class="linkedin" href="http://www.linkedin.com/in/cwsaylor">LinkedIn</a>
 <a class="corkd" href="http://www.corkd.com/people/cwsaylor">Cork'd</a>
 <a class="meetup" href="http://www.meetup.com/members/53110/">Meetup</a>
+<a class="workingwithrails" href="http://workingwithrails.com/person/7980-christopher-saylor">Working with Rails</a>
