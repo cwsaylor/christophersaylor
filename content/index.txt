@@ -7,12 +7,12 @@ filter:
 ---
 # <%= @page.title %>
 
-* [Just Hack](http://justhack.com)
-* [Github](http://github.com/cwsaylor)
-* [Flickr](http://flickr.com/photos/cwsaylor)
-* [Twitter](http://twitter.com/cwsaylor)
-* [Facebook](http://www.facebook.com/profile.php?id=716937664)
-* [Delicious](http://delicious.com/cwsaylor)
-* [LinkedIn](http://www.linkedin.com/in/cwsaylor)
-* [Cork'd](http://www.corkd.com/people/cwsaylor)
-* [Meetup](http://www.meetup.com/members/53110/)
+[Just Hack](http://justhack.com)
+[Github](http://github.com/cwsaylor)
+[Flickr](http://flickr.com/photos/cwsaylor)
+[Twitter](http://twitter.com/cwsaylor)
+[Facebook](http://www.facebook.com/profile.php?id=716937664)
+[Delicious](http://delicious.com/cwsaylor)
+[LinkedIn](http://www.linkedin.com/in/cwsaylor)
+[Cork'd](http://www.corkd.com/people/cwsaylor)
+[Meetup](http://www.meetup.com/members/53110/)

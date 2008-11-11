@@ -1,4 +1,4 @@
-html, body, ul, li, h1, div, p {
+html, body, h1, a {
   	margin: 0;
   	padding: 0;
   	border: 0;
@@ -15,12 +15,18 @@ body {
   color: white;
 }
 
-a, a:link, a:visited, a:active, a:hover, a:visited {
-  text-decoration: none;
-  color: white;
-  padding: 10px;
+h1 {
+  font-size: 80%;
 }
 
-li {
-  margin: 10px;
+a, a:link, a:visited, a:active, a:hover, a:visited {
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+}
+
+a:hover {
+  background-color: white;
+  color: red;
 }
