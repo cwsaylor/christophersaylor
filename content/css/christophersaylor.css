@@ -26,7 +26,12 @@ a, a:link, a:visited, a:active, a:hover, a:visited {
   padding: 10px 20px;
 }
 
-a:hover {
-  background-color: white;
-  color: red;
-}
+a.justhack:hover { background-color: white; color: black; }
+a.github:hover { background-color: #3C6696; color: black; }
+a.flickr:hover { background-color: #E62B84; color: black; }
+a.twitter:hover { background-color: #A7E1E6; color: black; }
+a.facebook:hover { background-color: #395186; color: black; }
+a.delicious:hover { background-color: #3F75CC; color: black; }
+a.linkedin:hover { background-color: #86B626; color: black; }
+a.corkd:hover { background-color: #430B16; color: black; }
+a.meetup:hover { background-color: #DD252B; color: black; }
