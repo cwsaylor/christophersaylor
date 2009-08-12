@@ -1,6 +1,6 @@
-SITE.user = "deploy"
+SITE.user = "www-data"
 SITE.host = "70.85.31.160"
-SITE.remote_dir = "/var/www/apps/christophersaylor.com"
+SITE.remote_dir = "/data/apps/christophersaylor.com"
 
 task :default => :build
 
