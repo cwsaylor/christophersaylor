@@ -11,7 +11,7 @@ filter:    erb
    <title><%= @page.title %></title>
    <meta name="author" content="<%= @page.author || "Chris Saylor" %>" />
    <meta name="description" content="<%= @page.description || "Welcome to the homepage of Christopher Saylor. Please select one of the links below to visit me on the web." %>" />
-   <meta name="keywords" content="<%= @page.keywords || "Christopher Saylor Chris cwsaylor ruby meetup rails rubyonrails miami coconut grove florida tastyplanner twitter flickr justhack github corkd delicious linkedin ruby meetup" %>" />
+   <meta name="keywords" content="<%= @page.keywords || "Christopher Saylor Chris cwsaylor ruby meetup rails rubyonrails miami coconut grove florida tastyplanner twitter flickr justhack github corkd delicious linkedin" %>" />
    <link rel="stylesheet" href="/css/blueprint/src/reset.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/christophersaylor.css" type="text/css" media="screen, projection" />
 </head>
